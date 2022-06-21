@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Juan Ignacio Martinez. 
+- 👀 I’m interested in Fullstack Web Development and DB administration.
+- 🌱 I’m currently learning Vue.js, Angular.js, MySQL, TypeScript and Cibersegurity. 
+- 📫 LinkedIn: www.linkedin.com/in/juanignacio20
